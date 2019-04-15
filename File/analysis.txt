@@ -1,3 +1,0 @@
-This is my string
-This is my second string
-This is my final string
